@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning Portfolio on Atharv Yeolekar</title>
+    <link>https://atharv6f.github.io/my_portfolio/</link>
+    <description>Recent content in Machine Learning Portfolio on Atharv Yeolekar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://atharv6f.github.io/my_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 6: Real Estate Price Prediction</title>
+      <link>https://atharv6f.github.io/my_portfolio/post/chapter-6/</link>
+      <pubDate>Tue, 01 Sep 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/post/chapter-6/</guid>
+      <description>Aim of the project is to build to a full stack web application, in order to predict the real estate house prices based on the given parameters.
+  Ridge Regression was used as the model to output the estimated price after carrying out data cleaning, EDA and grid-search cross validation.
+  The web application is developed using the Python-Flask stack and SQLite as the database.
+  The application is deployed on an EC2 instance running Ubuntu 18.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Amazon Apparel Recommendation</title>
+      <link>https://atharv6f.github.io/my_portfolio/post/chapter-5/</link>
+      <pubDate>Tue, 17 Mar 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/post/chapter-5/</guid>
+      <description>Aim of the project is to recommend similar apparel products using text and image based features over dataset obtained from Amazon product advertising API 5.0.
+  Amazon generates over 35% of its income from product recommendation and hence product recommendation are a key part of the organization.
+  Collaborative filtering is used over content based filtering as amazon does not provide user data.
+  I have used 6 of the total 19 features due to lack of computing power.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Dog breed classification </title>
+      <link>https://atharv6f.github.io/my_portfolio/post/chapter-4/</link>
+      <pubDate>Sat, 12 Jan 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/post/chapter-4/</guid>
+      <description>  Aim of the project is to detect humans and dogs in the input image.
+  If a dog is detected, the closest breed of the detected dog is outputted.
+  Transfer learning is used as oppose to using a raw model because of the sheer time it takes to train a CNN model.
+  Xception model is used to classify the breed of dogs.
+    Link to github repository </description>
+    </item>
+    
+    <item>
+      <title>Project 3: Facebook friend recommendation</title>
+      <link>https://atharv6f.github.io/my_portfolio/post/chapter-3/</link>
+      <pubDate>Sat, 22 Sep 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/post/chapter-3/</guid>
+      <description>Aim of the project is to predict missing links to enhance recommendation to users. The problem can be mapped into a supervised learning problem.
+  Training samples of good and bad links were generated from the given directed graph and many new features were added to the existing dataset such as page rank, katz scores, adar index, weight features, various distance measures, etc.
+  In this particular project, it is essential for the probability of prediction to be high, as it has a direct correlation with the quality of recommendation.</description>
+    </item>
+    
+    <item>
+      <title>Project :2 StackOverflow tag prediction</title>
+      <link>https://atharv6f.github.io/my_portfolio/post/chapter-2/</link>
+      <pubDate>Sun, 15 Jul 2018 11:00:59 -0400</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/post/chapter-2/</guid>
+      <description>Stack Overflow is something which every programmer use one way or another. Each month, over 50 million developers come to Stack Overflow to learn, share their knowledge, and build their careers. It features questions and answers on a wide range of topics in computer programming. The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Quora question pair similarity </title>
+      <link>https://atharv6f.github.io/my_portfolio/post/chapter-1/</link>
+      <pubDate>Tue, 10 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/post/chapter-1/</guid>
+      <description>Over 100 million people visit Quora every month, so it&amp;rsquo;s no surprise that many people ask similarly worded questions. Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question, and make writers feel they need to answer multiple versions of the same question. Quora values canonical questions because they provide a better experience to active seekers and writers, and offer more value to both of these groups in the long term.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://atharv6f.github.io/my_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/contact/</guid>
+      <description>Following are the links to my projects and profile.
+   Platform URL     GitHub: https://github.com/atharv6f   LinkedIn: https://www.linkedin.com/in/atharv-yeolekar-0226a1152/   Email id: atharv6f@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
