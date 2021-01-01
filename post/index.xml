@@ -12,6 +12,32 @@
     
     
     <item>
+      <title>Project 8: YoloChat</title>
+      <link>https://atharv6f.github.io/my_portfolio/post/chapter-8/</link>
+      <pubDate>Tue, 01 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/post/chapter-8/</guid>
+      <description>The aim of the project was to design a desktop compatible chat application.
+  A registered user can join and create multiple channels .
+  Various settings such as dark/light mode, enable/disbale sound/notifications are incorporated in the app
+  The app is built using React.js, Electron.js and Firebase.
+  Link to download the .exe file 
+  Link to download the zipped version</description>
+    </item>
+    
+    <item>
+      <title>Project 7: YoloTours</title>
+      <link>https://atharv6f.github.io/my_portfolio/post/chapter-7/</link>
+      <pubDate>Sun, 01 Nov 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://atharv6f.github.io/my_portfolio/post/chapter-7/</guid>
+      <description>The first part of the proeject was to design an REST API capable of handling requests related to tour bookings.
+  The second part of the project was to consume the API designed in the first part using pug templates
+  The web application was developed using Node.js, Express and MongoDB.
+  Apart from the YoloTours API, additional API&amp;rsquo;s like Stripe, Mapbox, Sendgrid and Mailtrap were consumed to handle other functionalities.</description>
+    </item>
+    
+    <item>
       <title>Project 6: Real Estate Price Prediction</title>
       <link>https://atharv6f.github.io/my_portfolio/post/chapter-6/</link>
       <pubDate>Tue, 01 Sep 2020 11:25:05 -0400</pubDate>
