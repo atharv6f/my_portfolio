@@ -31,7 +31,7 @@
       <pubDate>Sun, 01 Nov 2020 11:25:05 -0400</pubDate>
       
       <guid>https://atharv6f.github.io/my_portfolio/post/chapter-7/</guid>
-      <description>The first part of the proeject was to design an REST API capable of handling requests related to tour bookings.
+      <description>The first part of the project was to design an REST API capable of handling requests related to tour bookings.
   The second part of the project was to consume the API designed in the first part using pug templates
   The web application was developed using Node.js, Express and MongoDB.
   Apart from the YoloTours API, additional API&amp;rsquo;s like Stripe, Mapbox, Sendgrid and Mailtrap were consumed to handle other functionalities.</description>
